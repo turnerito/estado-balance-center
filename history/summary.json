@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Turnero Balance Center",
+    "url": "https://turnero-balance-center.onrender.com/api/health",
+    "icon": "https://icons.duckduckgo.com/ip3/turnero-balance-center.onrender.com.ico",
+    "slug": "turnero-balance-center",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 330,
+    "timeDay": 330,
+    "timeWeek": 330,
+    "timeMonth": 330,
+    "timeYear": 330,
+    "dailyMinutesDown": {}
+  }
+]
