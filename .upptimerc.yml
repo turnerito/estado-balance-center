@@ -9,7 +9,7 @@ sites:
     url: https://turnero-balance-center.onrender.com/api/health
     expectedStatusCodes:
       - 200
-    maxResponseTime: 10000
+    maxResponseTime: 15000 # /api/health le da hasta 10 s a la base
 
 assignees:
   - turnerito
